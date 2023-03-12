@@ -1,2 +1,2 @@
-# projects
-This is a repository of all my projects Ive had the pleasure of working on of late. Some were very small some large.
+# c-plus-plus
+This is a repository of all my c++ projects Ive worked on. Some were very small some large. I often would help students get past sticking points in their logic, and by teaching I learned deeply.
